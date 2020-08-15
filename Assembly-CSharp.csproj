@@ -65,8 +65,11 @@
   <ItemGroup>
     <Compile Include="Assets\PolygonPi\FenceLayout\FenceLayout.cs" />
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
-    <Compile Include="Assets\Scripts\carmovement.cs" />
+    <Compile Include="Assets\Scripts\CarCollision.cs" />
+    <Compile Include="Assets\Scripts\CarMovement.cs" />
+    <Compile Include="Assets\Scripts\Playercarmovement.cs" />
     <None Include="Assets\BrokenVector\LowPolyTreePack\README.txt" />
+    <None Include="Assets\VertexColorFarmAnimals\Shaders\VertexColorUnlit.shader" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/Raii007/Documents/NewGamePlan/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
